@@ -187,4 +187,24 @@ footer h2 {
   background-color: #d9dcd6;
   transition: 0.2s;
   width: 25%;
+
+}
+
+@media screen and (max-width: 992px) {
+  .body {
+    width: 50%;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .body {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .body {
+    width: 100%;
+  }
 }
