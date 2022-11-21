@@ -1,6 +1,6 @@
 [Link to Github](https://github.com/MartinCespedes/Website_Portfolio)
 
-## User Story
+## :bulb: User Story
 
 - AS AN employer
 - I WANT to view a potential employee's deployed portfolio of work samples
