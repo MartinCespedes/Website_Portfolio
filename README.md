@@ -1,6 +1,8 @@
 [Live Link to Website](https://martincespedes.github.io/Website_Portfolio/)
 
-## License![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+## License!
+
+[License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Contents
 
