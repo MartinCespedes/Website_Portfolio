@@ -41,3 +41,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Application Screenshot Preview
 
 ![Website Image Criteria](/images/Website_Portolio_Version_2.png)
+
+## Credits
+
+- Author : Martin Cespedes
